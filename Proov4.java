@@ -1,4 +1,3 @@
-
 public class Proov4{
   public static void main(String[] arg){
     RoopYhendus r=new RoopYhendus();
